@@ -1,0 +1,14 @@
+ecommerce App deployement-
+
+This app is designed on flask, and using SQL lite3 database.
+Hence prequisite is flask to be installed.
+
+I have used Postman API and GET method to test the application by passing valid parameters which would be mentioned in API documentation.
+
+will use word doc.
+
+This project contains app file ,database, ER diagram and model file 
+
+Run the ecom-app.py file which is the main file and follow the URN/URL's mentioned in the API documentation.
+
+The supporting code for this app to run where all the database functions are present in the database.py file.
